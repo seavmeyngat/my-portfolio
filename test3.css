@@ -1,0 +1,22 @@
+.container{
+    width: 800px;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+}
+ div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    background-color:#cae8ca ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+  .span span {
+    display: inline-block;
+    margin: 10px;
+  }
